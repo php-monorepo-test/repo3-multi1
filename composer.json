@@ -1,5 +1,5 @@
 {
-    "name": "example/ns1",
+    "name": "example/multi1",
     "license": "MIT",
     "autoload": {
         "psr-4": {
