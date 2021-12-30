@@ -1,4 +1,9 @@
 {
     "name": "example/ns1",
-    "license": "MIT"
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Example\\Monorepo1\\NS\\": ""
+        }
+    }
 }
